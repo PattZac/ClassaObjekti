@@ -1,0 +1,8 @@
+C:\Users\ucenik\source\repos\ClassaObjekti\ClassaObjekti\bin\Debug\ClassaObjekti.exe.config
+C:\Users\ucenik\source\repos\ClassaObjekti\ClassaObjekti\bin\Debug\ClassaObjekti.exe
+C:\Users\ucenik\source\repos\ClassaObjekti\ClassaObjekti\bin\Debug\ClassaObjekti.pdb
+C:\Users\ucenik\source\repos\ClassaObjekti\ClassaObjekti\obj\Debug\ClassaObjekti.csproj.AssemblyReference.cache
+C:\Users\ucenik\source\repos\ClassaObjekti\ClassaObjekti\obj\Debug\ClassaObjekti.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\source\repos\ClassaObjekti\ClassaObjekti\obj\Debug\ClassaObjekti.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\source\repos\ClassaObjekti\ClassaObjekti\obj\Debug\ClassaObjekti.exe
+C:\Users\ucenik\source\repos\ClassaObjekti\ClassaObjekti\obj\Debug\ClassaObjekti.pdb
